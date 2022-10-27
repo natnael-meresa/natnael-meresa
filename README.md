@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Natnael Meresa
+- 👋 Hi, I’m Natnael Meresa Bethabh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on any software developement projects
 - 📫 you can reach me by email : natnaelmeresa6@gmail.com
 
