@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Natnael Meresa Bethabh
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on any software developement projects
-- 📫 you can reach me by email : natnaelmeresa6@gmail.com
+- 💞️ I’m looking to collaborate on exciting software development projects
+- 📫 You can reach me by email: natnaelmeresa6@gmail.com
 
 <!---
 natnael-meresa/natnael-meresa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
